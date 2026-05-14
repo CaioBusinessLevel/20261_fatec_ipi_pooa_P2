@@ -43,7 +43,8 @@ O sistema foi desenvolvido para processar e visualizar dados públicos de financ
 ## 5. Configuração do Ambiente
 
 * **Arquivos de Dados:** O arquivo `bndes_filtrado.csv` deve estar localizado na pasta `api-bndes/src/main/resources/`.
-* **Gerenciamento de Dependências:** * O Backend utiliza **Maven** (`pom.xml`).
+* **Gerenciamento de Dependências:**
+  * O Backend utiliza **Maven** (`pom.xml`).
   * O Frontend utiliza **NPM** (`package.json`).
 
 ## 6. Instruções de Execução
