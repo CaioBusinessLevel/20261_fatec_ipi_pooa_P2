@@ -12,6 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/financiamentos")
+@CrossOrigin(origins = "http://localhost:3000")
 public class FinanciamentoController {
 
     @Autowired
